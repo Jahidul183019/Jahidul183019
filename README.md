@@ -48,8 +48,6 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jahidul183019&show_icons=true&theme=tokyonight&hide_border=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=Jahidul183019&theme=tokyonight&hide_border=true)
 
 </div>
