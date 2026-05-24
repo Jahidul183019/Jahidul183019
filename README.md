@@ -1,42 +1,36 @@
 <div align="center">
 
-# 👋 Hi, I'm MD. Jahidul Islam
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=160&section=header&text=MD.%20Jahidul%20Islam&fontSize=42&fontColor=ffffff&fontAlignY=55" />
 
-### Competitive Programmer | Passionate Software Engineer | Solving Complex Problems & Building Impactful Projects
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=Jahidul183019&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/Jahidul183019?label=Followers&style=social" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=Jahidul183019&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://img.shields.io/github/followers/Jahidul183019?label=Followers&style=social" />
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="center">
-  <!-- Portfolio Website -->
   <a href="https://jahid-portfolio-theta.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
-  <!-- Coding Platforms -->
   <a href="https://leetcode.com/u/Jahidul1/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
   <a href="https://codeforces.com/profile/Jahidul1" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces"/>
   </a>
   <a href="https://www.codechef.com/users/jahidul1" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white" alt="CodeChef"/>
   </a>
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 💻 Programming Languages
+### Programming Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,java,js" />
@@ -44,7 +38,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -54,16 +48,16 @@
 
 ---
 
-## 🚀 Current Focus
+## Current Focus
 
-- Data Structures & Algorithms  
-- Competitive Programming  
-- Full-Stack Web Development  
-- Writing clean, efficient, and scalable code  
+- Data Structures & Algorithms
+- Competitive Programming
+- Full-Stack Web Development
+- Writing clean, efficient, and scalable code
 
 ---
 
-## 💡 About Me
+## About Me
 
 ```cpp
 class Developer {
@@ -72,3 +66,10 @@ public:
         cout << "Code. Learn. Improve. Repeat." << endl;
     }
 };
+```
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" />
+</div>
