@@ -1,0 +1,20 @@
+name: Generate Streak Stats
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"   # runs every 6 hours
+  workflow_dispatch:
+
+jobs:
+  streak:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate streak stats SVG
+        uses: DenverCoder1/github-readme-streak-stats@master
+        with:
+          user_id: Jahidul183019
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          output: assets/streak-stats.svg
