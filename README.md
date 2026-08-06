@@ -49,13 +49,13 @@
 
 <!-- Stats + Top languages — side by side -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Jahidul183019&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Jahidul183019&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=0891B2&icon_color=7C3AED&text_color=475569&bg_color=FFFFFF&card_width=500" alt="Jahidul's GitHub Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api?username=Jahidul183019&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" />
+  <img width="49%" src="https://github-readme-stats-sigma-rosy-28.vercel.app/api?username=Jahidul183019&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=0891B2&icon_color=7C3AED&text_color=475569&bg_color=FFFFFF&card_width=500" alt="Jahidul's GitHub Stats" />
 </picture>
 &nbsp;
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Jahidul183019&layout=compact&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500&langs_count=8" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jahidul183019&layout=compact&hide_border=true&title_color=0891B2&text_color=475569&bg_color=FFFFFF&card_width=500&langs_count=8" alt="Top Languages" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api/top-langs/?username=Jahidul183019&layout=compact&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500&langs_count=8" />
+  <img width="49%" src="https://github-readme-stats-sigma-rosy-28.vercel.app/api/top-langs/?username=Jahidul183019&layout=compact&hide_border=true&title_color=0891B2&text_color=475569&bg_color=FFFFFF&card_width=500&langs_count=8" alt="Top Languages" />
 </picture>
 
 </div>
