@@ -1,10 +1,10 @@
 <!-- ===== THEME-AWARE HERO BANNER ===== -->
-<!-- GitHub automatically shows dark.svg in dark mode and light.svg in light mode. -->
+<!-- GitHub automatically shows the matching banner for the active color scheme. -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jahidul183019/Jahidul183019/main/dark.svg?v=20260907-2">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jahidul183019/Jahidul183019/main/light.svg?v=20260907-2">
-  <img width="100%" alt="MD. Jahidul Islam" src="https://raw.githubusercontent.com/Jahidul183019/Jahidul183019/main/light.svg?v=20260907-2">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jahidul183019/Jahidul183019/main/profile-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jahidul183019/Jahidul183019/main/profile-light.svg">
+  <img width="100%" alt="MD. Jahidul Islam" src="https://raw.githubusercontent.com/Jahidul183019/Jahidul183019/main/profile-light.svg">
 </picture>
 
 <!-- ===== CONNECT WITH ME ===== -->
