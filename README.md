@@ -2,9 +2,9 @@
 <!-- GitHub automatically shows dark.svg in dark mode and light.svg in light mode. -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jahidul183019/Jahidul183019/main/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jahidul183019/Jahidul183019/main/light.svg">
-  <img width="100%" alt="MD. Jahidul Islam" src="https://raw.githubusercontent.com/Jahidul183019/Jahidul183019/main/light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jahidul183019/Jahidul183019/main/dark.svg?v=20260907-2">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jahidul183019/Jahidul183019/main/light.svg?v=20260907-2">
+  <img width="100%" alt="MD. Jahidul Islam" src="https://raw.githubusercontent.com/Jahidul183019/Jahidul183019/main/light.svg?v=20260907-2">
 </picture>
 
 <!-- ===== CONNECT WITH ME ===== -->
