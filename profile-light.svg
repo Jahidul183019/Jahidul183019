@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1180" height="660" viewBox="0 0 1180 660" role="img" aria-labelledby="title desc" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
 <title id="title">MD. Jahidul Islam — Developer Portfolio</title>
-<desc id="desc">Full Stack Developer and CSE student at the University of Dhaka, 2024 to present. Competitive programmer based in Dhaka, Bangladesh. Skills include React, Vite, JavaScript, FastAPI, Spring Boot, Node.js, C, C++, Java, Python, PostgreSQL, MySQL, SQLite, Git, IntelliJ, and VS Code. Email: mdjahidulislamsarker@gmail.com.</desc>
+<desc id="desc">Tech Enthusiast and Problem Solver studying at the University of Dhaka, 2024 to present. Competitive programmer based in Dhaka, Bangladesh. Skills include React, Vite, JavaScript, FastAPI, Spring Boot, Node.js, C, C++, Java, Python, PostgreSQL, MySQL, SQLite, Git, IntelliJ, and VS Code. Email: mdjahidulislamsarker@gmail.com.</desc>
 <defs>
  <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#087E98"/><stop offset=".5" stop-color="#7352C7"/><stop offset="1" stop-color="#147A59"/></linearGradient>
  <radialGradient id="halo"><stop stop-color="#7352C7" stop-opacity=".13"/><stop offset="1" stop-color="#7352C7" stop-opacity="0"/></radialGradient>
@@ -27,7 +27,7 @@
 <path d="M32 49H1148" stroke="#DCE5F1"/>
 <text x="32" y="86" font-size="10" fill="#087E98" letter-spacing="2.5">HELLO WORLD, I’M</text>
 <text x="30" y="131" font-size="40" fill="#17243B" class="sans" font-weight="750" letter-spacing="-1.3">MD. Jahidul Islam</text>
-<text x="33" y="158" font-size="13" fill="#506580" >Full Stack Developer  /  CSE Student  /  Competitive Programmer</text>
+<text x="33" y="158" font-size="13" fill="#506580" >Tech Enthusiast  /  Problem Solver  /  Competitive Programmer</text>
 <rect x="942" y="77" width="206" height="36" rx="18" fill="#FFFFFF" stroke="#DCE5F1"/>
 <circle cx="960" cy="95" r="8" fill="#147A59" opacity=".15" class="pulse"/><circle cx="960" cy="95" r="3.5" fill="#147A59"/>
 <text x="974" y="99" font-size="11" fill="#147A59" >Open to opportunities</text>
