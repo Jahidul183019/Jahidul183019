@@ -2,9 +2,9 @@
 <!-- GitHub automatically shows the matching banner for the active color scheme. -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jahidul183019/Jahidul183019/main/profile-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jahidul183019/Jahidul183019/main/profile-light.svg">
-  <img width="100%" alt="MD. Jahidul Islam" src="https://raw.githubusercontent.com/Jahidul183019/Jahidul183019/main/profile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jahidul183019/Jahidul183019/2369a40b3076c63555008a6df2e2ad9662a3bdc4/profile-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jahidul183019/Jahidul183019/2369a40b3076c63555008a6df2e2ad9662a3bdc4/profile-light.svg">
+  <img width="100%" alt="MD. Jahidul Islam" src="https://raw.githubusercontent.com/Jahidul183019/Jahidul183019/2369a40b3076c63555008a6df2e2ad9662a3bdc4/profile-light.svg">
 </picture>
 
 <!-- ===== CONNECT WITH ME ===== -->
