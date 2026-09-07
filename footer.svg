@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="120" viewBox="0 0 1180 120" role="img" aria-label="Decorative purple wave footer">
+  <defs>
+    <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#24243e"/>
+      <stop offset="0.5" stop-color="#302b63"/>
+      <stop offset="1" stop-color="#0f0c29"/>
+    </linearGradient>
+  </defs>
+  <path d="M0 46C220 88 390 82 590 63S960 44 1180 60V120H0Z" fill="url(#wave)" opacity="0.55"/>
+  <path d="M0 80C210 35 380 27 590 43S960 70 1180 49V120H0Z" fill="url(#wave)" opacity="0.65"/>
+</svg>

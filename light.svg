@@ -1,160 +1,104 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="520" viewBox="0 0 1180 520" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" role="img" aria-label="MD. Jahidul Islam -- profile.sh --live">
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="660" viewBox="0 0 1180 660" role="img" aria-labelledby="title desc" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+<title id="title">MD. Jahidul Islam — Developer Portfolio</title>
+<desc id="desc">Full Stack Developer and CSE student at the University of Dhaka, 2024 to present. Competitive programmer based in Dhaka, Bangladesh. Skills include React, Vite, JavaScript, FastAPI, Spring Boot, Node.js, C, C++, Java, Python, PostgreSQL, MySQL, SQLite, Git, IntelliJ, and VS Code. Email: mdjahidulislamsarker@gmail.com.</desc>
 <defs>
-<linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#2563EB"><animate attributeName="stop-color" values="#2563EB;#06B6D4;#10B981;#2563EB" dur="10s" repeatCount="indefinite"/></stop>
-      <stop offset="0.5" stop-color="#06B6D4"><animate attributeName="stop-color" values="#06B6D4;#10B981;#2563EB;#06B6D4" dur="10s" repeatCount="indefinite"/></stop>
-      <stop offset="1" stop-color="#10B981"><animate attributeName="stop-color" values="#10B981;#2563EB;#06B6D4;#10B981" dur="10s" repeatCount="indefinite"/></stop>
-    </linearGradient>
-<linearGradient id="panelGrad" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#F8FAFC"/><stop offset="1" stop-color="#EEF2F7"/></linearGradient>
-<linearGradient id="titleGrad" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#7C3AED"><animate attributeName="stop-color" values="#7C3AED;#0891B2;#059669;#7C3AED" dur="8s" repeatCount="indefinite"/></stop>
-      <stop offset="1" stop-color="#0891B2"><animate attributeName="stop-color" values="#0891B2;#059669;#7C3AED;#0891B2" dur="8s" repeatCount="indefinite"/></stop>
-    </linearGradient>
-<filter id="glow3" x="-60%" y="-60%" width="220%" height="220%"><feGaussianBlur stdDeviation="3"/></filter>
-<filter id="txtGlow" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="0.8" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
-<clipPath id="winClip"><rect x="2" y="2" width="1176" height="516" rx="18"/></clipPath>
+ <linearGradient id="edge" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#087E98"/><stop offset=".5" stop-color="#7352C7"/><stop offset="1" stop-color="#147A59"/></linearGradient>
+ <radialGradient id="halo"><stop stop-color="#7352C7" stop-opacity=".13"/><stop offset="1" stop-color="#7352C7" stop-opacity="0"/></radialGradient>
+ <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r=".8" fill="#647993" opacity=".14"/></pattern>
+ <clipPath id="clip"><rect x="1" y="1" width="1178" height="658" rx="24"/></clipPath>
+ <style>
+ .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Arial, sans-serif; }
+ .pulse { animation: pulse 4s ease-in-out infinite; }
+ @keyframes pulse { 0%,100% { opacity:.3; } 50% { opacity:.8; } }
+ @media (prefers-reduced-motion: reduce) { .pulse { animation:none; } }
+ </style>
 </defs>
+<g clip-path="url(#clip)">
+<rect width="1180" height="660" fill="#F2F6FC"/>
+<rect width="1180" height="660" fill="url(#grid)"/>
+<ellipse cx="1020" cy="80" rx="440" ry="280" fill="url(#halo)"/>
+<path d="M32 1H1148" stroke="url(#edge)" stroke-width="3"/>
 
-<rect x="2" y="2" width="1176" height="516" rx="18" fill="#FFFFFF"/>
-<g clip-path="url(#winClip)">
-<rect x="2" y="2" width="1176" height="516" fill="url(#panelGrad)"/>
-
-<!-- Title bar -->
-<rect x="2" y="2" width="1176" height="46" fill="#F1F5F9"/>
-<line x1="2" y1="48" x2="1178" y2="48" stroke="rgba(15,23,42,0.10)"/>
-<circle cx="30" cy="25" r="5.5" fill="#ff5f56"/>
-<circle cx="50" cy="25" r="5.5" fill="#ffbd2e"/>
-<circle cx="70" cy="25" r="5.5" fill="#27c93f"/>
-<text x="590" y="29" text-anchor="middle" font-size="12" fill="#475569">mdjahidulislamsarker@gmail.com -- % ./profile.sh --live</text>
-
-<!-- LEFT PANEL -->
-<text x="38" y="74" font-size="10" letter-spacing="3" fill="#94A3B8">CODE.BLOCK</text>
-<rect x="36" y="84" width="400" height="420" rx="10" fill="none" stroke="#0891B2" stroke-width="2" opacity="0.35" filter="url(#glow3)"/>
-<rect x="36" y="84" width="400" height="420" rx="10" fill="#F8FAFC" stroke="rgba(8,145,178,0.30)"/>
-
-<g transform="translate(54, 106)" font-size="13" filter="url(#txtGlow)">
-  <text fill="#94A3B8" x="0" y="0">01</text>
-  <text fill="#94A3B8" x="0" y="24">02</text>
-  <text fill="#94A3B8" x="0" y="48">03</text>
-  <text fill="#94A3B8" x="0" y="72">04</text>
-  <text fill="#94A3B8" x="0" y="96">05</text>
-  <text fill="#94A3B8" x="0" y="120">06</text>
-  <text fill="#94A3B8" x="0" y="144">07</text>
-  <text fill="#94A3B8" x="0" y="168">08</text>
-  <text fill="#94A3B8" x="0" y="192">09</text>
-  <text fill="#94A3B8" x="0" y="216">10</text>
-  <text fill="#94A3B8" x="0" y="240">11</text>
-  <text fill="#94A3B8" x="0" y="264">12</text>
-  <text fill="#94A3B8" x="0" y="288">13</text>
-  <text fill="#94A3B8" x="0" y="312">14</text>
-  <text fill="#94A3B8" x="0" y="336">15</text>
-  <text fill="#94A3B8" x="0" y="360">16</text>
-  <text fill="#94A3B8" x="0" y="384">17</text>
-
-  <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.2s" fill="freeze"/>
-    <text x="30" y="0"><tspan fill="#7C3AED">const</tspan><tspan fill="#475569"> developer = {</tspan></text>
-  </g>
-  <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.35s" fill="freeze"/>
-    <text x="50" y="24"><tspan fill="#475569">name: </tspan><tspan fill="#059669">'Jahidul Islam'</tspan><tspan fill="#475569">,</tspan></text>
-  </g>
-  <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.5s" fill="freeze"/>
-    <text x="50" y="48"><tspan fill="#475569">role: </tspan><tspan fill="#059669">'Full Stack Dev'</tspan><tspan fill="#475569">,</tspan></text>
-  </g>
-  <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.65s" fill="freeze"/>
-    <text x="50" y="72"><tspan fill="#475569">uni:  </tspan><tspan fill="#059669">'University of Dhaka'</tspan><tspan fill="#475569">,</tspan></text>
-  </g>
-  <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.8s" fill="freeze"/>
-    <text x="50" y="96"><tspan fill="#475569">loc:  </tspan><tspan fill="#059669">'Dhaka, BD'</tspan><tspan fill="#475569">,</tspan></text>
-  </g>
-  <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.5s" begin="0.95s" fill="freeze"/>
-    <text x="50" y="120"><tspan fill="#475569">skills: [</tspan></text>
-  </g>
-  <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.5s" begin="1.1s" fill="freeze"/>
-    <text x="70" y="144"><tspan fill="#059669">'C++'</tspan><tspan fill="#475569">, </tspan><tspan fill="#059669">'Java'</tspan><tspan fill="#475569">, </tspan><tspan fill="#059669">'Python'</tspan><tspan fill="#475569">,</tspan></text>
-  </g>
-  <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.5s" begin="1.25s" fill="freeze"/>
-    <text x="70" y="168"><tspan fill="#059669">'React'</tspan><tspan fill="#475569">, </tspan><tspan fill="#059669">'Spring Boot'</tspan></text>
-  </g>
-  <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.5s" begin="1.4s" fill="freeze"/>
-    <text x="50" y="192"><tspan fill="#475569">],</tspan></text>
-  </g>
-  <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.5s" begin="1.55s" fill="freeze"/>
-    <text x="50" y="216"><tspan fill="#475569">passion: </tspan><tspan fill="#059669">'Building solutions'</tspan><tspan fill="#475569">,</tspan></text>
-  </g>
-  <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.5s" begin="1.7s" fill="freeze"/>
-    <text x="50" y="240"><tspan fill="#7C3AED">code</tspan><tspan fill="#475569">: () =&gt; </tspan><tspan fill="#059669">'Clean &amp;</tspan></text>
-  </g>
-  <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.5s" begin="1.85s" fill="freeze"/>
-    <text x="50" y="264"><tspan fill="#059669">                 Efficient'</tspan></text>
-  </g>
-  <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.5s" begin="2.0s" fill="freeze"/>
-    <text x="30" y="288"><tspan fill="#475569">};</tspan></text>
-  </g>
-  <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.5s" begin="2.15s" fill="freeze"/>
-    <text x="30" y="312" fill="#94A3B8">// -- current_focus --</text>
-  </g>
-  <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.5s" begin="2.3s" fill="freeze"/>
-    <text x="30" y="336"><tspan fill="#475569">// DSA | CP | Web Dev</tspan></text>
-  </g>
-  <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.5s" begin="2.45s" fill="freeze"/>
-    <text x="30" y="360" fill="#94A3B8">// -- motto --</text>
-  </g>
-  <g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.5s" begin="2.6s" fill="freeze"/>
-    <text x="30" y="384"><tspan fill="#475569">// Code. Learn. Improve. Repeat.</tspan></text>
-  </g>
-</g>
-
-<!-- RIGHT PANEL -->
-<text x="458" y="74" font-size="10" letter-spacing="3" fill="#94A3B8">SYS.INFO</text>
-
-<!-- Name card -->
-<rect x="456" y="84" width="714" height="82" rx="10" fill="none" stroke="url(#accent)" stroke-width="2" opacity="0.3" filter="url(#glow3)"/>
-<rect x="456" y="84" width="714" height="82" rx="10" fill="#FFFFFF" stroke="rgba(124,58,237,0.25)"/>
-<g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.8s" begin="0.4s" fill="freeze"/>
-  <text x="480" y="118" font-size="28" font-weight="bold" fill="url(#titleGrad)" filter="url(#txtGlow)">MD. Jahidul Islam</text>
-  <text x="480" y="148" font-size="14" fill="#475569">Full Stack Developer  |  CS Student  |  Competitive Programmer</text>
-</g>
-
-<!-- Status cards -->
-<g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.6s" begin="0.8s" fill="freeze"/>
-  <rect x="456" y="180" width="230" height="100" rx="10" fill="#FFFFFF" stroke="rgba(8,145,178,0.20)"/>
-  <text x="476" y="208" font-size="10" letter-spacing="2" fill="#94A3B8">FRONTEND</text>
-  <text x="476" y="232" font-size="15" fill="#0891B2" filter="url(#txtGlow)">. React / Vite</text>
-  <text x="476" y="258" font-size="15" fill="#0891B2" filter="url(#txtGlow)">. JavaScript</text>
-</g>
-<g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.6s" begin="1.0s" fill="freeze"/>
-  <rect x="698" y="180" width="230" height="100" rx="10" fill="#FFFFFF" stroke="rgba(5,150,105,0.20)"/>
-  <text x="718" y="208" font-size="10" letter-spacing="2" fill="#94A3B8">BACKEND</text>
-  <text x="718" y="232" font-size="15" fill="#059669" filter="url(#txtGlow)">. Spring Boot</text>
-  <text x="718" y="258" font-size="15" fill="#059669" filter="url(#txtGlow)">. Node.js</text>
-</g>
-<g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.6s" begin="1.2s" fill="freeze"/>
-  <rect x="940" y="180" width="230" height="100" rx="10" fill="#FFFFFF" stroke="rgba(124,58,237,0.20)"/>
-  <text x="960" y="208" font-size="10" letter-spacing="2" fill="#94A3B8">LANGUAGES</text>
-  <text x="960" y="232" font-size="15" fill="#7C3AED" filter="url(#txtGlow)">. C++ / Java / Python</text>
-  <text x="960" y="258" font-size="15" fill="#7C3AED" filter="url(#txtGlow)">. C / JavaScript</text>
-</g>
-
-<!-- Connect row -->
-<g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.6s" begin="1.4s" fill="freeze"/>
-  <rect x="456" y="296" width="714" height="68" rx="10" fill="#FFFFFF" stroke="rgba(8,145,178,0.15)"/>
-  <text x="476" y="322" font-size="10" letter-spacing="2" fill="#94A3B8">CONNECT</text>
-  <text x="476" y="346" font-size="14" fill="#0891B2" filter="url(#txtGlow)">mail: mdjahidulislamsarker@gmail.com</text>
-  <text x="850" y="346" font-size="14" fill="#7C3AED" filter="url(#txtGlow)">loc: Dhaka, Bangladesh</text>
-</g>
-
-<!-- Terminal -->
-<g opacity="0"><animate attributeName="opacity" values="0;1" dur="0.6s" begin="1.8s" fill="freeze"/>
-  <rect x="456" y="380" width="714" height="124" rx="10" fill="#FFFFFF" stroke="rgba(5,150,105,0.15)"/>
-  <text x="476" y="406" font-size="10" letter-spacing="2" fill="#94A3B8">TERMINAL</text>
-  <text x="476" y="432" font-size="14" fill="#059669">$ whoami</text>
-  <text x="476" y="456" font-size="13" fill="#475569">CSE student at University of Dhaka.</text>
-  <text x="476" y="476" font-size="13" fill="#475569">Building full-stack apps and solving problems.</text>
-  <rect x="476" y="486" width="8" height="14" fill="#0891B2">
-    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
-  </rect>
-</g>
-
-</g>
-<rect x="2" y="2" width="1176" height="516" rx="18" fill="none" stroke="url(#accent)" stroke-width="1.5" opacity="0.10"/>
-</svg>
+<circle cx="34" cy="29" r="4.5" fill="#FF6B6B"/>
+<circle cx="52" cy="29" r="4.5" fill="#F7C75C"/>
+<circle cx="70" cy="29" r="4.5" fill="#5DD6A0"/>
+<text x="90" y="33" font-size="11" fill="#506580" >jahidul / profile</text>
+<text x="1146" y="33" font-size="10" fill="#647993" text-anchor="end" letter-spacing="2">PORTFOLIO · 01</text>
+<path d="M32 49H1148" stroke="#DCE5F1"/>
+<text x="32" y="86" font-size="10" fill="#087E98" letter-spacing="2.5">HELLO WORLD, I’M</text>
+<text x="30" y="131" font-size="40" fill="#17243B" class="sans" font-weight="750" letter-spacing="-1.3">MD. Jahidul Islam</text>
+<text x="33" y="158" font-size="13" fill="#506580" >Full Stack Developer  /  CSE Student  /  Competitive Programmer</text>
+<rect x="942" y="77" width="206" height="36" rx="18" fill="#FFFFFF" stroke="#DCE5F1"/>
+<circle cx="960" cy="95" r="8" fill="#147A59" opacity=".15" class="pulse"/><circle cx="960" cy="95" r="3.5" fill="#147A59"/>
+<text x="974" y="99" font-size="11" fill="#147A59" >Open to opportunities</text>
+<text x="1146" y="142" font-size="10" fill="#647993" text-anchor="end" letter-spacing="1.2">DHAKA, BANGLADESH</text>
+<rect x="32" y="188" width="410" height="354" rx="14" fill="#F5F8FD" stroke="#DCE5F1"/>
+<path d="M32 230H442" stroke="#DCE5F1"/>
+<text x="50" y="214" font-size="14" fill="#087E98" >&lt;/&gt;</text>
+<text x="85" y="213" font-size="12" fill="#506580" >developer.js</text>
+<text x="422" y="213" font-size="10" fill="#647993" text-anchor="end">JS</text>
+<text x="50" y="256" font-size="10" fill="#647993" >01</text>
+<text x="80" y="256" font-size="11.5" xml:space="preserve"><tspan fill="#7352C7">const </tspan><tspan fill="#17243B">developer = {</tspan></text>
+<text x="50" y="277" font-size="10" fill="#647993" >02</text>
+<text x="80" y="277" font-size="11.5" xml:space="preserve"><tspan fill="#506580">  name: </tspan><tspan fill="#147A59">&#x27;Jahidul Islam&#x27;,</tspan></text>
+<text x="50" y="298" font-size="10" fill="#647993" >03</text>
+<text x="80" y="298" font-size="11.5" xml:space="preserve"><tspan fill="#506580">  role: </tspan><tspan fill="#147A59">&#x27;Student&#x27;,</tspan></text>
+<text x="50" y="319" font-size="10" fill="#647993" >04</text>
+<text x="80" y="319" font-size="11.5" xml:space="preserve"><tspan fill="#506580">  university:</tspan></text>
+<text x="50" y="340" font-size="10" fill="#647993" >05</text>
+<text x="80" y="340" font-size="11.5" xml:space="preserve"><tspan fill="#147A59">    &#x27;University of Dhaka&#x27;,</tspan></text>
+<text x="50" y="361" font-size="10" fill="#647993" >06</text>
+<text x="80" y="361" font-size="11.5" xml:space="preserve"><tspan fill="#506580">  skills: [</tspan></text>
+<text x="50" y="382" font-size="10" fill="#647993" >07</text>
+<text x="80" y="382" font-size="11.5" xml:space="preserve"><tspan fill="#147A59">    &#x27;C&#x27;, &#x27;C++&#x27;, &#x27;Java&#x27;,</tspan></text>
+<text x="50" y="403" font-size="10" fill="#647993" >08</text>
+<text x="80" y="403" font-size="11.5" xml:space="preserve"><tspan fill="#147A59">    &#x27;Python&#x27;, &#x27;JavaScript&#x27;</tspan></text>
+<text x="50" y="424" font-size="10" fill="#647993" >09</text>
+<text x="80" y="424" font-size="11.5" xml:space="preserve"><tspan fill="#506580">  ],</tspan></text>
+<text x="50" y="445" font-size="10" fill="#647993" >10</text>
+<text x="80" y="445" font-size="11.5" xml:space="preserve"><tspan fill="#506580">  passion: </tspan><tspan fill="#147A59">&#x27;Building solutions&#x27;,</tspan></text>
+<text x="50" y="466" font-size="10" fill="#647993" >11</text>
+<text x="80" y="466" font-size="11.5" xml:space="preserve"><tspan fill="#506580">  code: </tspan><tspan fill="#7352C7">() =&gt; </tspan><tspan fill="#147A59">&#x27;Clean &amp; Efficient&#x27;</tspan></text>
+<text x="50" y="487" font-size="10" fill="#647993" >12</text>
+<text x="80" y="487" font-size="11.5" xml:space="preserve"><tspan fill="#17243B">};</tspan></text>
+<path d="M50 509H424" stroke="#DCE5F1"/>
+<text x="50" y="528" font-size="10" fill="#147A59" >●</text>
+<text x="68" y="528" font-size="10" fill="#506580" >Code. Learn. Improve. Repeat.</text>
+<rect x="462" y="188" width="214" height="154" rx="14" fill="#FFFFFF" stroke="#DCE5F1"/>
+<path d="M480 189H528" stroke="#087E98" stroke-width="2"/>
+<text x="480" y="220" font-size="11" fill="#087E98" >01</text>
+<text x="480" y="250" font-size="19" fill="#17243B" class="sans" font-weight="650">Frontend</text>
+<text x="480" y="280" font-size="11" fill="#506580" >React / Vite</text>
+<text x="480" y="303" font-size="11" fill="#506580" >JavaScript</text>
+<rect x="698" y="188" width="214" height="154" rx="14" fill="#FFFFFF" stroke="#DCE5F1"/>
+<path d="M716 189H764" stroke="#147A59" stroke-width="2"/>
+<text x="716" y="220" font-size="11" fill="#147A59" >02</text>
+<text x="716" y="250" font-size="19" fill="#17243B" class="sans" font-weight="650">Backend</text>
+<text x="716" y="280" font-size="11" fill="#506580" >FastAPI</text>
+<text x="716" y="303" font-size="11" fill="#506580" >Spring Boot / Node.js</text>
+<rect x="934" y="188" width="214" height="154" rx="14" fill="#FFFFFF" stroke="#DCE5F1"/>
+<path d="M952 189H1000" stroke="#7352C7" stroke-width="2"/>
+<text x="952" y="220" font-size="11" fill="#7352C7" >03</text>
+<text x="952" y="250" font-size="19" fill="#17243B" class="sans" font-weight="650">Languages</text>
+<text x="952" y="280" font-size="11" fill="#506580" >C / C++ / Java</text>
+<text x="952" y="303" font-size="11" fill="#506580" >Python / JavaScript</text>
+<rect x="462" y="358" width="332" height="78" rx="14" fill="#FFFFFF" stroke="#DCE5F1"/>
+<text x="480" y="384" font-size="10" fill="#087E98" letter-spacing="1.5">DATABASES</text>
+<text x="480" y="412" font-size="12" fill="#506580" >PostgreSQL / MySQL / SQLite</text>
+<rect x="810" y="358" width="338" height="78" rx="14" fill="#FFFFFF" stroke="#DCE5F1"/>
+<text x="828" y="384" font-size="10" fill="#7352C7" letter-spacing="1.5">TOOLS</text>
+<text x="828" y="412" font-size="12" fill="#506580" >Git / IntelliJ / VS Code</text>
+<rect x="462" y="452" width="686" height="90" rx="14" fill="#F5F8FD" stroke="#DCE5F1"/>
+<text x="480" y="478" font-size="12" fill="#147A59" >$ whoami</text>
+<text x="480" y="502" font-size="16" fill="#17243B" class="sans" font-weight="600">CSE @ University of Dhaka</text>
+<text x="1130" y="502" font-size="10" fill="#087E98" text-anchor="end">2024 — PRESENT</text>
+<text x="480" y="524" font-size="11" fill="#506580" >Building practical software. Solving challenging problems.</text>
+<rect x="32" y="564" width="1116" height="64" rx="14" fill="#FFFFFF" stroke="#DCE5F1"/>
+<text x="52" y="590" font-size="9" fill="#647993" letter-spacing="1.8">LET’S CONNECT</text>
+<text x="52" y="612" font-size="14" fill="#087E98" >mdjahidulislamsarker@gmail.com</text>
+<path d="M594 581V611" stroke="#DCE5F1"/>
+<text x="619" y="590" font-size="9" fill="#647993" letter-spacing="1.8">GITHUB</text>
+<text x="619" y="612" font-size="14" fill="#506580" >@Jahidul183019</text>
+<text x="1128" y="592" font-size="11" fill="#7352C7" text-anchor="end">DSA  /  CP  /  WEB DEV</text>
+<text x="1128" y="613" font-size="10" fill="#647993" text-anchor="end">Always learning. Always building.</text>
+</g><rect x="1" y="1" width="1178" height="658" rx="24" fill="none" stroke="url(#edge)" stroke-opacity=".35"/></svg>
