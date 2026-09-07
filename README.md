@@ -25,7 +25,7 @@
 
 <!-- ===== FEATURED PROJECTS ===== -->
 
-### 🔥 Featured Projects
+### Featured Projects
 
 | Project | Description | Tech Stack |
 | --- | --- | --- |
